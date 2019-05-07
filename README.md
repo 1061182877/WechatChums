@@ -1,3 +1,6 @@
+
+[下载地址](https://github.com/dannyit/WechatChums/releases)
+
 ## 应用简介
 
 微信密友，隐藏通讯录好友和群聊

@@ -1,5 +1,5 @@
 
-[下载地址](https://github.com/dannyit/WechatChums/releases)
+[最新下载地址](https://github.com/dannyit/WechatChums/releases)
 
 ## 应用简介
 
